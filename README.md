@@ -1,6 +1,8 @@
+![Web Developer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/332159176_867182467685786_1825094670707551283_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHSbunxwNnZjDAQgrnCLS1iMJ17rv-VfvwwnXuu_5V-_KoCMstZt2UmHujjdPittxGWKF461AprxqRQwvaAU_Gg&_nc_ohc=WY8TrW3x_sgAX-vM0HF&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfC4m5AD1MsgAkjOM6LVcu4hUcEZUt3mCJEEmBprUN7rLg&oe=64393B5B)
+
 ### Hi there 👋, I am Swakshor Ahmed
 #### Web Developer
-![Web Developer](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/332159176_867182467685786_1825094670707551283_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHSbunxwNnZjDAQgrnCLS1iMJ17rv-VfvwwnXuu_5V-_KoCMstZt2UmHujjdPittxGWKF461AprxqRQwvaAU_Gg&_nc_ohc=WY8TrW3x_sgAX-vM0HF&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfC4m5AD1MsgAkjOM6LVcu4hUcEZUt3mCJEEmBprUN7rLg&oe=64393B5B)
+
 
 I'm a Front End Web developer who is passionate about making error- free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicy as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactUS, JavaScript as well as PHP.
 
